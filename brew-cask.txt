@@ -6,3 +6,4 @@ supercollider
 tunnelblick
 virtualbox
 wireshark
+timeedition
