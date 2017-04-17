@@ -1,0 +1,8 @@
+java
+keepassx
+rowanj-gitx
+sequel-pro
+supercollider
+tunnelblick
+virtualbox
+wireshark
