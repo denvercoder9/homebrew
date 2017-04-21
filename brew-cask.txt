@@ -7,3 +7,5 @@ tunnelblick
 virtualbox
 wireshark
 timeedition
+iterm2
+google-chrome
